@@ -25,15 +25,18 @@ Target variable: Exited (Churn Status)
 Overall churn rate
 Customer distribution
 Key KPIs
+
 **2. Customer Segmentation**
 
 Churn by Age, Gender, Geography
 Salary and Balance segmentation
+
 **3. Behavior & Drivers**
 
 Churn by Activity Status
 Churn by Number of Products
 Product affinity analysis
+
 **4. Customer Deep Dive (Drill-through)**
 
 Segment-level analysis
